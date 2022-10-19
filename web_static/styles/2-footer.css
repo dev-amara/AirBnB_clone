@@ -1,14 +1,9 @@
-footer {
-	height: 60px;
-	background-color: #00ff00;
-	position: absolute;
-	width: 100%;
-	bottom: 0;
-	left: 0;
-
-}
-
-p {
-	text-align: center;
-	padding: 6px;
+footer{
+    Background-color:#00FF00;
+    height:60px;
+    width:100%;
+    position: absolute;
+    bottom:0;
+    text-align:center;
+    line-height:60px
 }

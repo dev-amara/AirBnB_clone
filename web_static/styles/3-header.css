@@ -1,14 +1,15 @@
 header {
-    background-color: #fff;
+    background-color: white;
     height: 70px;
     width: 100%;
     border-bottom: 1px solid #CCCCCC;
+    display: flex;
+    align-items: center;
 }
 
-.logo {
-    background: url("../images/logo.png") no-repeat;
-    background-position: left;
-    display: block;
-    height: 100%;
-    margin-left: 20px;
+header .logo {
+    width: 142px;
+    height: 60px;
+    background: url("../images/logo.png") no-repeat center;
+    padding-left: 20px;
 }
